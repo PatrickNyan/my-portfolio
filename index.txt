@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Nyan Lin Htut
+Nyan Lin Htut
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+nyanlinhtut.mm@gmail.com
 
 Phone
 +1 (213) 352-2795
 
 Birthday
-June 23, 1982
+June, 1994
 
 Location
-Sacramento, California, USA
+Yangon, Myanmar
 
 # navbar
 
