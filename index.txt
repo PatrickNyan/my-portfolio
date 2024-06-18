@@ -32,9 +32,11 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+Experienced Ruby on Rails Developer with over 6 years of expertise in designing, developing, and maintaining scalable web applications. 
+Proficient in building complex IT systems and tech products across diverse industries, ensuring high performance and quality. 
+Strong background in full-stack development, adept at working with modern frontend technologies, and experienced in implementing RESTful APIs. 
+Proven track record of delivering robust solutions and driving projects to successful completion within deadlines. 
+Excellent problem-solving skills, collaborative team player, and continuous learner committed to staying updated with the latest industry trends.
 
 
 ## service
